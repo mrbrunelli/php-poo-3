@@ -13,10 +13,10 @@ $dinossauro = new Dinossauro();
 $gato = new Gato("Satanas");
 $cachorro = new Cachorro();
 $cachorro->setNome("Estrelinha");
-echo $cachorro->comer() . "\n";
+echo $gato->comer() . "\n";
 try {
-  echo $gato->comer() . "\n";
-  echo $gato->comer() . "\n";
+  echo $cachorro->comer() . "\n";
+  echo $cachorro->comer() . "\n";
 } catch (Exception $e) {
   echo $e->getMessage() . "\n";
 }
