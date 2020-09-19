@@ -1,0 +1,12 @@
+{
+    "name": "mrbrunelli/trabalho2",
+    "description": "Trabalho 2",
+    "type": "n",
+    "authors": [
+        {
+            "name": "Matheus R. Brunelli",
+            "email": "matheus.brunelli@gmail.com"
+        }
+    ],
+    "require": {}
+}
