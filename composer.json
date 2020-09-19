@@ -8,5 +8,10 @@
             "email": "matheus.brunelli@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Alfa\\": "src/"
+        }
+    }
 }
